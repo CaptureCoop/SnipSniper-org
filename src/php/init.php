@@ -6,7 +6,7 @@
 	if(isset($_GET["param2"])) $param2 = $_GET["param2"];
 	if(isset($_GET["param3"])) $param3 = $_GET["param3"];
 
-	$sites = array("home", "about", "download", "wiki", "dsgvo", "impressum", "l", "404");
+	$sites = array("home", "about", "downloads", "wiki", "dsgvo", "impressum", "l", "404");
 	global $page;
 	$page = $sites[0];
 
