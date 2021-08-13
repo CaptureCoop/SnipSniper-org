@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^([a-z0-9\-]+)/?$ index.php?param1=$1 [NC,L]
+RewriteRule ^([a-z0-9\-]+)/([a-z0-9\-]+)/?$ index.php?param1=$1&param2=$2 [NC,L]
+RewriteRule ^([a-z0-9\-]+)/([a-z0-9\-]+)/([a-z0-9\-]+)/?$ index.php?param1=$1&param2=$2&param3=$3 [NC,L]
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
