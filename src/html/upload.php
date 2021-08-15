@@ -1,6 +1,9 @@
 <?php
 	require("../php/uploadPassword.php");
 
+	//This uploads the passed file to /jars/SnipSniper.jar and to a jar named by the version passed.
+	//We use github actions for this, having a password in uploadPassword.php and in the github secrets
+
 	if($_POST["password"] == $password) {
 		$filename = basename($_FILES["file"]["name"]);
 		$targetDir = "jars/";
