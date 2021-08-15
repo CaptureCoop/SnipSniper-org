@@ -4,7 +4,7 @@
 	if($_POST["password"] == $password) {
 		$filename = basename($_FILES["file"]["name"]);
 		$targetDir = "jars/";
-		$targetFile = $targetDir . $filename;
+		$targetFile = $targetDir . "SnipSniper " . $_POST["version"] . ".jar";
 		$filetype = strtolower(pathinfo($targetFile,PATHINFO_EXTENSION));
 		
 		if($_FILES["file"]["size"] > 5000000) {
