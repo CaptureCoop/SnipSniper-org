@@ -81,15 +81,16 @@ h2{
 #footer {
 	font-size:4vw;
 }
+<?php endif ?>
 
 #content {
-	font-size:4vw;
+	
 	<?php if ($isMobile): ?>
-	width: 95%;
-	margin-left: 2.5%;
+		font-size:4vw;
+		width: 95%;
+		margin-left: 2.5%;
 	<?php else: ?>
-	width: 30%;
-	margin-left: 35%;
+		width: 30%;
+		margin-left: 35%;
 	<?php endif ?>
 }
-<?php endif ?>
