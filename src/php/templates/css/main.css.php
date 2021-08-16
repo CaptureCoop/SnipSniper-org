@@ -23,7 +23,7 @@ h2{
 }
 
 <?php
-	$tabs = 4;
+	$tabs = 5;
 ?>
 
 <?php if ($isMobile): ?>

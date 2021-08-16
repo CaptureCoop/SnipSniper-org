@@ -11,6 +11,7 @@
 			<div class="navTab"><a class="navLink" href="/home">Home</a></div>
 			<div class="navTab"><a class="navLink" href="/about">About</a></div>
 			<div class="navTab"><a class="navLink" href="/downloads">Downloads</a></div>
+			<div class="navTab"><a class="navLink" href="/links">Links</a></div>
 			<div class="navTab"><a class="navLink" href="/wiki">Wiki</a></div>
 		</div>
 		<div class="mobileSpacer"></div>

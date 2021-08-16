@@ -7,4 +7,5 @@
     <p>- Screenshot Editor!</p>
     <p>- Image viewer!</p>
 	<p>Download it now under <a href="/downloads">Downloads</a></p>
+	<p>SnipSniper and its Installer & Website are Open Source! See how it works under <a href="/links">/links</a>!</p>
 </div>
