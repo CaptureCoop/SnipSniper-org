@@ -1,4 +1,4 @@
-<div id="content" style="width:30%;margin-left:35%;">
+<div id="content">
 	<p>SnipSniper is the screenshot tool for productivity.</p>
 	<p>Features include:</p>
 	<p>- Up to 7 profiles!</p>

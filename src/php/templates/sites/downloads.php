@@ -1,4 +1,4 @@
-<div id="content" style="width:30%;margin-left:35%;">
+<div id="content">
 	<p>There are multiple versions of SnipSniper currently available (Click on one to direct-download the latest stable release):</p>
 	<p>- <a href="https://github.com/SvenWollinger/SnipSniper/releases/latest/download/SnipSniper.jar">Java Standalone</a> (The classic Version of SnipSniper, all you generally need)</p>
 	<p>- <a href="https://github.com/SvenWollinger/SnipSniper/releases/latest/download/SnipSniper_Installer_Win.exe">Windows Installer</a> (SnipSniper + Java in one package)</p>

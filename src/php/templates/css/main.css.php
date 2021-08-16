@@ -84,5 +84,12 @@ h2{
 
 #content {
 	font-size:4vw;
+	<?php if ($isMobile): ?>
+	width: 95%;
+	margin-left: 2.5%;
+	<?php else: ?>
+	width: 30%;
+	margin-left: 35%;
+	<?php endif ?>
 }
 <?php endif ?>
