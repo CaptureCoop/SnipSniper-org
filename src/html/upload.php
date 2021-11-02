@@ -10,7 +10,7 @@
 		$targetFile = $targetDir . "SnipSniper " . $_POST["version"] . ".jar";
 		$filetype = strtolower(pathinfo($targetFile,PATHINFO_EXTENSION));
 		
-		if($_FILES["file"]["size"] > 5000000) {
+		if($_FILES["file"]["size"] > 20000000) {
 			echo("FILE TOO LARGE");
 			exit();
 		}

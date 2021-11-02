@@ -6,3 +6,6 @@ RewriteRule ^([a-z0-9\-]+)/([a-z0-9\-]+)/([a-z0-9\-]+)/?$ index.php?param1=$1&pa
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+php_value upload_max_filesize 20M
+php_value post_max_size 20M
