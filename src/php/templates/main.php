@@ -5,7 +5,7 @@
 		<style><?php include_once("css/main.css.php"); ?></style>
 	</head>
 	<body>
-		<div align="center"><h1><img src="SnSn.png" id="titleIcon">SnipSniper.org</h1></div>
+		<div align="center"><h1 style="font-family: 'atkinson-bold', sans-serif;"><img src="/SnSn.png" id="titleIcon"> SnipSniper.org</h1></div>
 
 		<div class="nav">
 			<div class="navTab"><a class="navLink" href="/home">Home</a></div>
@@ -17,7 +17,7 @@
 		<div class="mobileSpacer"></div>
 
 
-		<h2><?php echo(ucfirst($page)); ?></h2>
+		<h2 style="font-family: 'atkinson-bold', sans-serif;"><?php echo(ucfirst($page)); ?></h2>
 
 		<?php include_once("../php/templates/sites/" . $page . ".php"); ?>
 

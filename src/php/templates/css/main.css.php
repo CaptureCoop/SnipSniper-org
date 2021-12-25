@@ -1,5 +1,16 @@
+@font-face {
+    font-family: "atkinson-regular";
+    src: url("/AtkinsonHyperlegible-Regular.ttf");
+}
+
+@font-face {
+    font-family: "atkinson-bold";
+    src: url("/AtkinsonHyperlegible-Bold.ttf");
+}
+
 body{
-	font-family:"Segoe UI";
+	<?php /*font-family:"Segoe UI";*/ ?>
+	font-family: 'atkinson-regular', sans-serif;
 	margin:0px;
 	<!--background-color:#affe00;-->
 }
