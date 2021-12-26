@@ -5,7 +5,7 @@
 		<style><?php include_once("css/main.css.php"); ?></style>
 	</head>
 	<body>
-		<div align="center"><h1 style="font-family: 'atkinson-bold', sans-serif;"><img src="/SnSn.png" id="titleIcon"> SnipSniper.org</h1></div>
+		<div align="center"><h1 style="font-family: 'atkinson-bold', sans-serif;"><img src="/snipsniper.svg" id="titleIcon"> SnipSniper.org</h1></div>
 
 		<div class="nav">
 			<div class="navTab"><a class="navLink" href="/home">Home</a></div>
