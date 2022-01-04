@@ -24,7 +24,7 @@
 		<br>
 		<br>
 		<div id="footer" align="center">
-			<p>SnipSniper.org - Sven Wollinger 2021</p>
+			<p>SnipSniper.org - CaptureCoop.net 2021-2022</p>
 			<a href="/impressum">Impressum</a> | <a href="/dsgvo">DSGVO</a>
 		</div>
 	</body>
