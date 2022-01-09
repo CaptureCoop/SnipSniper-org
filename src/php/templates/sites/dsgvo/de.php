@@ -55,8 +55,8 @@
 <p>80637 München</p>
 <p>Deutschland</p>
 <p>Tel.: +49 163 2750177</p>
-<p>E-Mail: wollingersven@gmail.com</p>
-<p>Website: https://www.svenwollinger.net</p>
+<p>E-Mail: contact@wollinger.io</p>
+<p>Website: https://www.wollinger.io</p>
 
 <h4>3. Cookies</h4>
 <p>Die Internetseiten der Sven Wollinger verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.</p>
