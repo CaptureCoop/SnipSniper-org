@@ -1,11 +1,11 @@
 <html>
 	<head>
 		<link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
-		<title>SnipSniper.org - <?php echo (ucfirst($page)); ?></title>
+		<title>SnipSniper.net - <?php echo (ucfirst($page)); ?></title>
 		<style><?php include_once("css/main.css.php"); ?></style>
 	</head>
 	<body>
-		<div align="center"><h1 style="font-family: 'atkinson-bold', sans-serif;"><img src="/snipsniper.svg" id="titleIcon"> SnipSniper.org</h1></div>
+		<div align="center"><h1 style="font-family: 'atkinson-bold', sans-serif;"><img src="/snipsniper.svg" id="titleIcon"> SnipSniper.net</h1></div>
 
 		<div class="nav">
 			<div class="navTab"><a class="navLink" href="/home">Home</a></div>
