@@ -24,7 +24,7 @@
 		<br>
 		<br>
 		<div id="footer" align="center">
-			<p>SnipSniper.org - CaptureCoop.net 2021-2022</p>
+			<p>SnipSniper.net - CaptureCoop.org 2021-2022</p>
 			<a href="/impressum">Impressum</a> | <a href="/dsgvo">DSGVO</a>
 		</div>
 	</body>
