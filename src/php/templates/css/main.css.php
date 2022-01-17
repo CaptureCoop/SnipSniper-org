@@ -15,6 +15,20 @@ body{
 	<!--background-color:#affe00;-->
 }
 
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: rgb(13, 17, 23);
+        color: rgb(234, 237, 242);
+    }
+}
+
 h1{
 	text-align: center;
 	<?php if ($isMobile): ?>
