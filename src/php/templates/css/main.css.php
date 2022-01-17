@@ -23,10 +23,16 @@ body{
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: rgb(13, 17, 23);
-        color: rgb(234, 237, 242);
-    }
+	body {
+		background-color: rgb(13, 17, 23);
+		color: rgb(234, 237, 242);
+	}
+	a {
+		color: rgb(174, 255, 109);
+	}
+	a:visited:not(.navLink) {
+		color: rgb(79, 124, 12);
+	}
 }
 
 h1{
@@ -66,7 +72,6 @@ h2{
 	.nav{
 		width:50%;
 		margin-left:25%;
-
 		font-size: 2vw;
 	}
 	.mobileSpacer {
